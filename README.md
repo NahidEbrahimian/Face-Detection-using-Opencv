@@ -16,5 +16,7 @@
 
 - Run the following command for detecting feces in image and replacing them with stikers:
 
+```
 !python3 face_detection.py --stiker 21.png --image family.jpg --stiker_eye 29.png --stiker_mouth 25.png
 
+```
