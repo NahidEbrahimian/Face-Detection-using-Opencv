@@ -4,7 +4,7 @@
 
 # ![image_gray_face_stikr](https://github.com/n-ebrahimian/face_detection/blob/main/Result/image_gray_face_stikr.jpg)
 
-- detecting smile and eyes in image and replace with mouth and eye stiker
+- detecting smile and eyes in image and replace with lip and eye stiker
 
 # ![image_gray_mouth_eye_stiker](https://github.com/n-ebrahimian/face_detection/blob/main/Result/image_gray_mouth_eye_stiker.jpg)
 
