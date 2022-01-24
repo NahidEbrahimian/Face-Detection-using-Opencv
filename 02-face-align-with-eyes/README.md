@@ -19,7 +19,4 @@
 
 - Source:
 
-```
 https://github.com/Alireza-Akhavan/deep-face-recognition
-
-```
